@@ -10,3 +10,8 @@ body {
 h1 {
     color:var(--text)
 }
+
+figcaption {
+    background-color: var(--text);
+    color: var(--background);
+}
