@@ -14,4 +14,10 @@ h1 {
 figcaption {
     background-color: var(--text);
     color: var(--background);
+    width: 512px;
 }
+
+.content {
+    display: flex;
+    flex-direction: row;
+} 
