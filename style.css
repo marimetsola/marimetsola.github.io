@@ -1,0 +1,12 @@
+:root {
+    --text:#08312b;
+    --background:#dddfc2;
+  }
+
+body {
+    background-color:var(--background);
+}
+
+h1 {
+    color:var(--text)
+}
